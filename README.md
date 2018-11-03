@@ -1,11 +1,11 @@
-# constrain-set
-About ConstrainSets in Constraint Layout
+# Constraintset
+ConstrainSets in Constraint Layout
 
 There are 2 ways add a view to constraint layout
   1. Using XML
   2. Dynamically from logic
   
-<img style="width: 200px;" src="https://github.com/PavanKumarPatruni/constrain-set/blob/master/image.png?raw=true"/>
+<img width="250" src="https://github.com/PavanKumarPatruni/constrain-set/blob/master/image.png?raw=true"/>
   
 <h3>1. Using XML</h3>
 
